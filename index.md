@@ -5,10 +5,10 @@ sidebar:
     - title: Welcome
       url: '#intro'
       is_primary: true
-    - title: Who we are
+    - title: What we do
       url: '#one'
       is_primary: false
-    - title: What we do
+    - title: How we do
       url: '#two'
       is_primary: false
     - title: Get in touch
