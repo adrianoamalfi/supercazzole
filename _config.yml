@@ -1,7 +1,7 @@
-title: Hyperspace
+title: supercazzole.it - Open Source AI Experiments
 baseurl: /
 permalink: '/:title/'
-palette: blue
+palette: green
 palettes:
   blue:
     sass:
@@ -27,6 +27,9 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
+collections:
+  posts:
+    permalink: '/posts/:title/'
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -41,6 +44,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
