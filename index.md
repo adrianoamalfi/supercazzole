@@ -37,7 +37,7 @@ sections:
     background_style: style2
     component: spotlights.html
   - type: features
-    title: What we do
+    title: How we do
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
