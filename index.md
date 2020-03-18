@@ -67,7 +67,7 @@ sections:
           website-security company, providing content-delivery-network services,
           DDoS mitigation, Internet security, and distributed domain-name-server
           services
-        icon: fa-cloud
+        icon: fa-network-wired
       - title: 'Netlify '
         text: >-
           Used by more than 800,000 web developers and businesses, the Netlify
@@ -81,7 +81,7 @@ sections:
           language. Created by Guido van Rossum and first released in 1991,
           Python's design philosophy emphasizes code readability with its
           notable use of significant whitespace.
-        icon: fa-python
+        icon: fa-code
       - title: Jupyter Notebook
         text: >-
           The Jupyter Notebook is an open-source web application that allows you
@@ -118,13 +118,13 @@ sections:
       social_icons:
         - title: Twitter
           icon: fa-twitter
-          url: '#'
+          url: 'https://twitter.com/adrianoamalfi/'
         - title: GitHub
           icon: fa-github
-          url: '#'
+          url: 'https://github.com/adrianoamalfi/'
         - title: LinkedIn
           icon: fa-linkedin
-          url: '#'
+          url: 'https://www.linkedin.com/in/adrianoamalfi/'
     component: contact.html
 menus:
   main:
