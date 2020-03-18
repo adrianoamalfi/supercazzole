@@ -8,7 +8,7 @@ home_spotlights:
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
-    path: images/pic01.jpg
+    path: /images/high-angle-photo-of-robot-2599244.jpg
     data_position: center center
     url: '#'
 layout: page
