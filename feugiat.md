@@ -2,7 +2,7 @@
 title: Feugiat consequat
 content_img_path: images/pic04.jpg
 home_spotlights:
-  enabled: true
+  enabled: false
   weight: 2
   excerpt: >-
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
