@@ -2,7 +2,7 @@
 title: Ultricies aliquam
 content_img_path: images/pic04.jpg
 home_spotlights:
-  enabled: true
+  enabled: false
   weight: 3
   excerpt: >-
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
