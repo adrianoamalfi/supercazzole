@@ -1,6 +1,6 @@
 ---
-title: Chi sono
-content_img_path: images/pic04.jpg
+title: AI Experiment Made in Italy
+content_img_path: /images/pic02.jpg
 home_spotlights:
   enabled: true
   weight: 1
