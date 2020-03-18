@@ -16,11 +16,13 @@ sidebar:
       is_primary: false
 sections:
   - type: intro
-    title: Superacazzole
+    title: superacazzole
     subtitle: >-
-      We are committed to fostering an open and welcoming a new AI community.
-      Join supercazzole community and help grow the Free & Open Source AI
-      Experiments Made in Italy
+      We are building an Open and Welcoming Technology & AI Community. 
+
+
+      Follow supercazzole  and help us to grow in AI Experiments, Made in Italy
+      of course!
     section_id: intro
     background_style: style1
     actions:
@@ -92,28 +94,19 @@ sections:
     contact_list:
       - title: Address
         text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
+          Rome, 00100
+          ITALY
       - title: Email
-        text: user@Hyperspace.tld
+        text: adrianoamalfi@gmail.com
         url: '#'
-      - title: Phone
-        text: (000) 000-0000
     social:
       title: Social
       social_icons:
         - title: Twitter
           icon: fa-twitter
           url: '#'
-        - title: Facebook
-          icon: fa-facebook
-          url: '#'
         - title: GitHub
           icon: fa-github
-          url: '#'
-        - title: Instagram
-          icon: fa-instagram
           url: '#'
         - title: LinkedIn
           icon: fa-linkedin
