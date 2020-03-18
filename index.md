@@ -67,14 +67,14 @@ sections:
           website-security company, providing content-delivery-network services,
           DDoS mitigation, Internet security, and distributed domain-name-server
           services
-        icon: fa-network-wired
+        icon: fa-cloud
       - title: 'Netlify '
         text: >-
           Used by more than 800,000 web developers and businesses, the Netlify
           platform provides modern build workflows, serverless functions and a
           global Application Delivery Network to deliver the most performant,
           secure and scalable websites and applications.
-        icon: fa-code-branch
+        icon: fa-server
       - title: 'Python '
         text: >-
           Python is an interpreted, high-level, general-purpose programming
@@ -99,10 +99,7 @@ sections:
   - type: contact
     title: Get in touch
     text: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+      contact me if you need information or want to make a report on a website content, remember that this is a fan site so it may take several days before you can receive a reply.
     section_id: three
     background_style: style1
     contact_list:
