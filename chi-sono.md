@@ -2,7 +2,7 @@
 title: AI Experiment Made in Italy
 content_img_path: /images/pic02.jpg
 home_spotlights:
-  enabled: true
+  enabled: false
   weight: 1
   excerpt: Prova pagina duplicata
   home_img:
