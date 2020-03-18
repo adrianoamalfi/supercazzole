@@ -1,7 +1,15 @@
 landing_style: style1-alt
 alt_style: alt
-copyright: '&copy; supercazzole.it. All rights reserved.'
+copyright: >-
+  &copy; supercazzole.it. 2020 Creative Commons (CC) license
+  Attribution-ShareAlike 4.0 International
 links:
   - new_window: true
     text: github
     url: 'https://github.com/adrianoamalfi/supercazzole'
+  - new_window: true
+    text: docs
+    url: '#'
+  - new_window: true
+    text: privacy policy
+    url: '#'
